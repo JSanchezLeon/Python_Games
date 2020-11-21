@@ -1,5 +1,5 @@
 # Python_Games
-A repository containing several games built in python (pong, blackjack, memory, space rocks) using code skulptor. The games were projects of the Introduction to Interactiver Programming in Python online course. For optimal performance, please run the games on chrome.
+A repository containing several games built in python (pong, blackjack, memory, space rocks) using code skulptor web IDE. The games were projects of the Introduction to Interactive Programming in Python online course offered in Coursera by Rice University. For optimal performance, please run the games on chrome.
 To run the games please visit:
 
 Pong - http://www.codeskulptor.org/#user44_M1DGh5S9Ln_7.py
